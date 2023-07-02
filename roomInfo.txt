@@ -1,0 +1,20 @@
+SSR1:First:Out of Service:350
+SSR2:First:Available:350
+SSR3:First:Available:350
+SSR4:First:Available:350
+SSR5:First:Available:350
+SSR6:First:Available:350
+SSR7:First:Available:350
+SSR8:First:Available:350
+SSR9:First:Available:350
+SSR10:First:Available:350
+SSR11:Second:Available:350
+SSR12:Second:Out of Service:350
+SSR13:Second:Available:350
+SSR14:Second:Available:350
+SSR15:Second:Available:350
+SSR16:Second:Available:350
+SSR17:Second:Available:350
+SSR18:Second:Available:350
+SSR19:Second:Available:350
+SSR20:Second:Available:350
